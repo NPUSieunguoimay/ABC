@@ -321,14 +321,14 @@
       },
       {
          "cash_required":"2000000000000",
-         "reward_type":"bizpoint",
-         "reward_amount":"100",
-         "legendary_key":""
+         "reward_type":"card_legend",
+         "reward_amount":"200",
+         "legendary_key":"forest_01"
       },
       {
          "cash_required":"100000000000000",
          "reward_type":"diamond",
-         "reward_amount":"100",
+         "reward_amount":"10000",
          "legendary_key":""
       },
       {
