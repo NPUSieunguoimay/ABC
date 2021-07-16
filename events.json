@@ -368,39 +368,39 @@
 
    "milestones":[
       {
-         "cash_required":"5000",
-         "reward_type":"diamond",
-         "reward_amount":"1000",
-         "legendary_key":""
-      },
-      {
          "cash_required":"50000",
-         "reward_type":"bizpoint",
-         "reward_amount":"100",
+         "reward_type":"diamond",
+         "reward_amount":"10",
          "legendary_key":""
       },
       {
-         "cash_required":"100000",
-         "reward_type":"chest_biz",
-         "reward_amount":"10",
+         "cash_required":"1000000",
+         "reward_type":"bizpoint",
+         "reward_amount":"50",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"1000000000",
+         "reward_type":"diamond",
+         "reward_amount":"25",
          "legendary_key":""
       },
       {
          "cash_required":"100000000000",
          "reward_type":"chest_premium",
-         "reward_amount":"10",
+         "reward_amount":"1",
          "legendary_key":""
       },
       {
          "cash_required":"2000000000000",
-         "reward_type":"card_legend",
-         "reward_amount":"200",
-         "legendary_key":"machine_01"
+         "reward_type":"bizpoint",
+         "reward_amount":"100",
+         "legendary_key":""
       },
       {
          "cash_required":"100000000000000",
          "reward_type":"diamond",
-         "reward_amount":"10000",
+         "reward_amount":"100",
          "legendary_key":""
       },
       {
