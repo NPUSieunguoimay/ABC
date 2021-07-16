@@ -357,5 +357,77 @@
       }
    ],
    "platform":"ios"
+},
+ {
+   "id":"60e8176",
+
+   "name":"Wild West 1626313547",
+   "start_time":"63762027022",
+   "end_time":"63762124222",
+   "client_event_id":"95d32f4a",
+
+   "milestones":[
+      {
+         "cash_required":"5000",
+         "reward_type":"diamond",
+         "reward_amount":"1000",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"50000",
+         "reward_type":"bizpoint",
+         "reward_amount":"100",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"100000",
+         "reward_type":"chest_biz",
+         "reward_amount":"10",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"100000000000",
+         "reward_type":"chest_premium",
+         "reward_amount":"10",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"2000000000000",
+         "reward_type":"card_legend",
+         "reward_amount":"200",
+         "legendary_key":"machine_01"
+      },
+      {
+         "cash_required":"100000000000000",
+         "reward_type":"diamond",
+         "reward_amount":"10000",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"1e+16",
+         "reward_type":"chest_premium",
+         "reward_amount":"2",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"1e+18",
+         "reward_type":"diamond",
+         "reward_amount":"150",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"2e+20",
+         "reward_type":"chest_biz",
+         "reward_amount":"1",
+         "legendary_key":""
+      },
+      {
+         "cash_required":"5E+22",
+         "reward_type":"card_legend",
+         "reward_amount":"1",
+         "legendary_key":"machine_01"
+      }
+   ],
+   "platform":"ios"
 }]
 
